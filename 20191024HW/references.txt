@@ -1,0 +1,14 @@
+mnist-cnn/mnist-CNN.ipynb
+https://github.com/syshen/mnist-cnn/blob/master/mnist-CNN.ipynb?source=post_page-----dac9fce59b63----------------------
+
+keras/examples/mnist_cnn.py
+https://github.com/keras-team/keras/blob/master/examples/mnist_cnn.py
+
+Keras - MNIST 手寫數字辨識使用 CNN
+http://puremonkey2010.blogspot.com/2017/07/toolkit-keras-mnist-cnn.html
+
+A simple 2D CNN for MNIST digit recognition
+https://towardsdatascience.com/a-simple-2d-cnn-for-mnist-digit-recognition-a998dbc1e79a
+
+How to choose CNN Architecture MNIST
+https://www.kaggle.com/cdeotte/how-to-choose-cnn-architecture-mnist/data
